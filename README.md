@@ -1,9 +1,8 @@
-# Swiss-Transport
+<p><img src="https://opentransportdata.swiss/wp-content/themes/odpch-wp-theme/img/icons.svg" /></p>
 
-An example implementation of the swiss public transport API.
+<h1>Swiss-Transport</h1>
 
-# API
+## Data
 
-https://transport.opendata.ch/
-
-https://opentransportdata.swiss/en/
+- [transport.opendata.ch](https://transport.opendata.ch/)
+- [opentransportdata.swiss](https://opentransportdata.swiss/en/)
